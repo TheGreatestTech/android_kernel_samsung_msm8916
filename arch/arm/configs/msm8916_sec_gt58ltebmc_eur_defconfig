@@ -1,5 +1,3 @@
-#include msm8916_sec_defconfig
-
 CONFIG_SEC_GT58_PROJECT=y
 CONFIG_MACH_GT58_CAN_BMC=y
 
